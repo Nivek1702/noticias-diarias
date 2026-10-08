@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+.mypy_cache/
+.ruff_cache/
+_noticias_test.xlsx
+# Nunca versionar sesiones, cookies o perfiles del navegador.
+chrome-profile/
+browser-profile/
+*.chrome-profile/
+# Resultados y archivos temporales generados localmente.
+output/*
+tmp/
+
